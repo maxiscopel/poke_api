@@ -1,7 +1,7 @@
 # Pokédex App — TP Programación III
 
 **Alumno:** Maximo Scopel  
-**Materia:** Programación III — UTN TUPaD  
+**Materia:** Programación IIII — UTN TUPaD  
 **Tecnologías:** React · TypeScript · Tailwind CSS · PokéAPI
 
 ---
